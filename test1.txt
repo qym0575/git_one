@@ -1,8 +1,8 @@
 eleven
 twelve
 thirteen
-four
-five
+forty
+fifty
 six
 seven
 eight
