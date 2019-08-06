@@ -1,10 +1,10 @@
 eleven
 twelve
 thirteen
-four
-five
-six
-seven
-eight
-nine
-ten
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
