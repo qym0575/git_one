@@ -1,6 +1,6 @@
 eleven
 twelve
-thriteen
+thirteen
 four
 five
 six
